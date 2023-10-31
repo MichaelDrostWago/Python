@@ -1,0 +1,26 @@
+{
+    "404": {
+        "sizeIn": 3,
+        "sizeOut": 3
+      },  
+    "464": {
+        "sizeIn": 4,
+        "sizeOut": 0
+      },
+    "494": {
+        "sizeIn": 12,
+        "sizeOut": 12
+      },
+    "495": {
+          "sizeIn": 12,
+          "sizeOut": 12
+      },
+    "652": {
+        "sizeIn": 12,
+        "sizeOut": 12
+      },  
+    "658": {
+        "sizeIn": 12,
+        "sizeOut": 12
+      }
+}
